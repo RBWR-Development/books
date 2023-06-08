@@ -1,0 +1,9 @@
+The reactor is divided into 24 groups of rods (each containing 9 control rods). You can control each group independently. Once you start pulling rods on the main panel, you will notice that different groups heat with different rate. This is mainly because they contain a little different amounts of fuel. Also, you should notice some more patterns:
+* core groups will heat quicker - this is due to the fact that they take neutrons from neighboring groups
+* outside groups will heat slower - this is due they loose neutrons to the outside of the reactor (although some are reflected by neutron reflector)
+* circulations flow will increase reactivity mostly in the part of the reactor where they force the circulation (flow 1 in the upper part of the diagram and flow 2 on the lower part)
+* warmer groups will heat their neighbors while colder ones will cool them
+
+You should try to balance the differences, so all groups are at similar power. You can select any group or a set of groups and use the lever and speed switch the same way as on the main panel. Furthermore, you can do it even when already moving rods on the main panel simultaneously. You can also choose from common predefined patterns.
+
+The indicator screen will show you percentage of rods pulled in a given group and percentage of maximum group power.  From version 1.4 also vertical power output is sumulated. You can select a single rod on the diagram and a level on the vertical display on the left side. This will give you vertical diagram for single selected rod and a horizontal slice at a given level. Colours represent relative power output relative to the selected rod/slice and percentages show absolute power relative to maximum reactor power output. Some parts can heat up even up to 200% of power and this is normal as core cannot be balanced perfectly and there will always be some unbalance between certain parts of the core.

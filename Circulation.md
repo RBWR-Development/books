@@ -1,0 +1,9 @@
+The Reactor Circulation panel is a secondary reactor control panel. In BWR reactor, raising circulation flow through the core will reduce the amount of steam voids and therefore increase reactivity. As a result, this panel can be used to raise the power independently of the control rods. 
+
+There are two circulation pumps each with pump, inlet valve and outlet valve switch. Pump should be started in following order: inlet -> pump -> outlet and stopped in following order: outlet -> pump -> inlet. Each pump also has a valve setting to order the flow. There is also a panel showing status for all jet pumps in the reactor. They are used both by circulation flow and by offline cooling system.
+
+Only reactor time indicator, APR and Source Range are important as operating flow will change the reactivity. Other indicators are just for reference as this panel cannot change them directly, although of course changing the reactor power will have some effect. Temperature should be held below 287 degrees while pressure below, 7100 kPa.
+
+When nearing to critical state you should stop pulling rods to maintain about 20%-30% of thermal power and from that moment switch to operating the circulations flows. They are much more precise and in general a safer method (if you lose electrical power, circulation would stop and reactor would power automatically decrease). From that moment rods shouldn't be touched at all unless in emergency. Therefore, one person can easily control both panels, as you'll rarely need to operate both at the same time.
+
+Be advised that on low reactor powers (below 20%) higher circulation can cause cavitation in the pumps. You should avoid this as it may damage the pumps.

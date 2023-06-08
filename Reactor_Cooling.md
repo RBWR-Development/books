@@ -1,0 +1,20 @@
+Reactor Cooling panel might be the most demanding of the panels, and it requires constant attention of the operator. This panel basically supervises flow in the main cooling circuit. The system consists of three main elements:
+
+- Hotwell - this is where condensed steam gathers after passing through the turbine
+- Deareator - this device is used to remove air from the water condensate (cooling panel manages the water level of deaerator while this device has its own panel for steam and pressure management)
+- Reactor - this is water level in the reactor/steam separator system. It is crucial to maintain water level in the reactor as if it drops, the core would melt. Should anything happen, always fill the reactor with water, this is the most important thing!
+
+Typical level for all the devices is 0 with -8 meters being the minimum and +6 meters maximum (deaerator is scaled in decimeters). When the maximum level is reached, water will be automatically drained from the system, causing temporary radioactivity raise in a compartment. Low level of Hotwell or Deaerator will damage the device (not simulated at this time) while level below -5 in the reactor will induce emergency pumps and automatic SCRAM. Operator has 2 feedwater pumps and 2 condensate pumps to supervise. Feedwater pumps work the same way as circulation pumps do, while condensate pumps don't have separate valves but only one valve for both with a possible flow setting. Flows up to 50% can be maintained with one pump, but with higher flow demand the other one has to be switched on.
+
+The water flows from top to bottom the following way:
+Reactor-->Turbine-->Hotwell --Condenser_Pumps->Deaerator->Feedwater_Pumps->Reactor (from top to bottom)
+
+The main principle in operating the panel is "what comes in must come out". Therefore, the main goal is to maintain identical flows in all parts of the system. 
+
+Steam flow indicates how much steam comes from the reactor and is condensed in the condenser. The panel operator has no direct control over this figure, as it is controlled by the turbine operator. In order to maintain constant water levels, the operator ought to set Hotwell outflow and Deaerator outflow to the same number. Of course, if there is too much or not enough water in a part of the system, the values might differ. For example, if Hotwell is well above 0 and Deaerator is at negative obviously Condenser pumps should be set to higher flow than Feed Water pumps to level this up. But at the end all the flows should be at similar level.
+
+There is also a water makeup valve which is used to inject water into the system from Condensate Storage Tank. Excess water can be drained into CST with drain valve. In normal operations there is not much need for this feature, but if we lost some of the water by drain or steam vent we will have to supply it back to the system at some point. From time to time, steam lost by the deaerator has to be refilled back to the system too. The makeup pump will put water into Hotwell raising its level, so be prepared to increase Condenser pump flow when using it. Also remember that his water is pretty expensive so avoid losing water from the system.
+
+On the panel there are also three small levers for preheaters. All three of them should be turned on to heat feedwater. You may notice that they take some of the live steam 'wasting' it, but in fact more steam will be produced than used by preheaters, so they increase efficiency. Feedwater temperature is also provided, and it depends on steam temperature, pressure available number of preheates in operation and Deaerator temperature. Two small levers next to preheaters are for polishers which demineralize water and single one should be always on during operations.
+
+Simplified Condensate Storage Tank is also available in U1 from version 1.4, plese reffer to Cond. Storage for U2 on the right sight of the manual for more details on the system.

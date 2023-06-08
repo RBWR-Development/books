@@ -1,0 +1,13 @@
+The electrical panel connects all important devices in the plant. The system consists of several buses which can be connected to each other via transformers. Generally, electricity flows from top to bottom.
+
+Top line is the offsite power. It will be initially connected to the Main Bus A via the startup transformer and switch on the right. This Bus gives power to all important pumps needed for startup. Only one pump of each two is available, as the other ones are connected to Bus B (Although both reactor circulation pumps are available from Bus A). Be cautious to not overload the transformer during startup or turbine trip, as it has limited power. Once synced to the network, Buses A and B can be now connected directly to the turbine generator with a switch on the left which allows for the maximum plant power.
+
+On the bottom panel there is a Safety Bus which is connected to the Bus A. It powers safety equipment and other low power devices. In case of emergency, this bus can be powered with diesel generators, however they have to be started first. This bus also powers Emergency Bus, loads batteries which can power Emergency Bus (on the left side of the panel) and can power DC bus (lower part of the panel).
+
+Emergency Bus is always powered thanks to the batteries, so you will never lose emergency lights and panels control. DC bus which powers Control Room Lights and Ventilation system can be either powered from Safety Bus (in normal circumstances) or from Emergency Bus if needed. This Bus not only provides lights in the Control Room, but also ignition for the Diesel Generators.
+
+Standard Procedures:
+- Turbine Trip - If power was drawn from the Turbine, switch back to offsite power with the switch on the right side of the panel. Reactor power will automatically be reduced to 10% as you will have only half of the pumps available on startup transformer. If the startup transformer cannot sustain the load, the reactor has to be tripped and cooled with Reactor Core Isolation.
+- Lack of offsite power - In that case, turbine will trip and reactor has to be SCRAMed and cooled by Reactor Core Isolation as no power will available to the main pumps. The DC Panel should be connected to the Emergency Panel. Once initially cooled, Diesel Generators should be started with ignition power from the DC Panel. Once diesels are online they can provide power to the Safety Bus which powers the offline pumps for further cooling.
+
+From version 1.4 Unit 1 can also be operated in islanding mode. Please reffer to islanding page guide for Unit 2.
