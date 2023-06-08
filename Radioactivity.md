@@ -1,0 +1,6 @@
+Radioactivity is simulated in the game, and you can become contaminated as a player. At this moment there is no penalty for that, but this will be reworked in the future. There are several devices available to measure radioactivity:
+
+* Personal Geiger counter - it will give instant value of radioactivity in the vicinity, measured in microsieverts per hour. This device can also be used on other players to check if they are not contaminated.
+* Contamination detectors - they are placed in the airlock and player should do a quick scan every time they go out of the turbine hall or into it
+* Personal dosimeter - This device is based on a film which gets darker as it absorbs radiation. It measures the total exposure that the player received from radiation. It is scaled in millisieverts, but for the sake of gameplay, the effect was strengthened.
+* Showers - They will reduce your current radioactivity but they can't reduce your total exposure. What you have been exposed to, already did the damage.
