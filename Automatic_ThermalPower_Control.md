@@ -46,9 +46,7 @@ to be written
 
 
 ## Behaviour
-input
-
-# STILL TO BE REVISED --> NON FINAL
+ STILL TO BE REVISED --> NON FINAL
 
 The computer will try to smoothly reach the desired level and then hold it. Be advised that if there are some processes affecting reactor power like changing temperature or xenon level, system might not be able to hold desired value precisely.
 
