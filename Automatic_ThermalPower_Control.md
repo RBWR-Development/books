@@ -25,7 +25,7 @@ The pre-designated setpoints are the most commonly required power setpoint requi
     - At 10% APR sufficient thermal power is generated to synchronize the turbine to the grid and start providing power.
 
 - 20% APR
-    - At 20% APR we build pressure to *7100 **kPa*** and then the auto pressure hold mode is enabled.
+    - At 20% APR we build pressure to **7100 kPa** and then the auto pressure hold mode is enabled.
 
 - 30% APR
     - 30% APR is the upper rod block safety limit.
@@ -40,6 +40,7 @@ on the Unit-1 Automatic thermal power regulator there are 2 modes of operation:
     - In recirculation mode the auto control utilizes its ability to control the speed of the 2 reactor recirculation pumps to increase or decrease the recirculation flow thus changing reactor power.
 
 ## Behaviour
+input
 
 # STILL TO BE REVISED --> NON FINAL
 
