@@ -21,7 +21,7 @@ The pre-designated setpoints are the most commonly required power setpoints requ
     - At 5% APR sufficient thermal power is generated to commence the turbine startup.
 
 - 10% APR
-    - At 10% APR sufficient thermal power is generated to synchronize the turbine to the grid and start providing power.
+    - At 10% APR sufficient thermal power is generated to synchronize the turbine to the grid and start providing power, **HOWEVER:** *This should not be done before a main steam pressure of 7100 kPa is reached*.
 
 - 20% APR
     - At 20% APR we build pressure to **7100 kPa** and then the auto pressure hold mode is enabled.
