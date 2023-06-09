@@ -46,10 +46,12 @@ to be written
 
 
 ## Behaviour
- STILL TO BE REVISED --> NON FINAL
 
-The computer will try to smoothly reach the desired level and then hold it. Be advised that if there are some processes affecting reactor power like changing temperature or xenon level, system might not be able to hold desired value precisely.
+The computer will try to smoothly reach the desired level and then hold it. 
+ 
+Oscilations might occur due to processes affecting reactor power like negative temperature cöefficient or xenon levels.
 
-Also be advised that circulation flow is not effective at low temperatures and reactor powers, and it can quickly reach its limit. This will be signaled with a sound notification. In that case, you can change to auto control of the rods. You can also control the other system (which is not under automatic control) independently. For example, if you see that due to xenon burnout the computer is reducing circulation flow close to 0% it would be wise to push the rods a little by hand to give circulation flow more space.
-
-When under automatic control, you will gain fewer points than you would if working in manual.
+Changes in circulation flow is not effective at low temperatures and reactor powers.
+it can quickly reach its limit. This will be signaled with a sound notification. In that case you have change mode to absorber movement mode.  
+You can also control the other system manually.   
+For example, if you see that due to xenon burnoff the computer is reducing circulation flow close to 0% it would be wise to insert control rods manually to give circulation flow more margin.
