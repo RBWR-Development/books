@@ -2,4 +2,4 @@ Turbine control in Unit #2 has been reworked to have also a synchroscope which m
 
 There is also turbine autocontrol added. It will operate both the turbine valve and the bypass valve to reach certain RPM value (0, 900, 1800, 2700, 3600) with given acceleration rate. This feature can be used to synchronize the turbine automatically when 3600 is selected. It will try to stay just 2 RPM above or below the value to move the synchroscope needle, and then it will try to maintain 3600 RPM.
 
-Also, indicators for turbine vibration and differential expansion were added. At this moment high vibrations can trip the turbine while differential expansion has no influence on the operations. Please refer to the next point on turbine startup procedure.
+Also, indicators for turbine vibration and differential expansion were added. At this moment high vibrations can trip the turbine while differential expansion has no influence on the operations. Vibrations depend mostly on turbine acceleration and several resonance frequencies. Please refer to the next point on turbine startup procedure.
