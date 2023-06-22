@@ -3,13 +3,13 @@
 ## Purpose
 Reactor automatic thermal power control is used to automate the process of reaching desired power and holding the setpoint.
 
-## In unit-1
+## unit-1
 In unit-1 the automatic thermal power regulator can be found between the manual control rod operation panel and the recirculation control panel.
 
 ## This panel consists of 3 main elements
- - Pre designated power setpoints.
- - Manual setpoint adjustment switch.
- - Regulator mode selector.
+- Pre designated power setpoints.
+- Manual setpoint adjustment switch.
+- Regulator mode selector.
 
 ### Pre designated setpoints
 The pre-designated setpoints are the most commonly required power setpoints required by the operators. These setpoints are:
