@@ -5,7 +5,7 @@
 - Reactor and recirculation: 1 person
 - Turbine main panel: 1 person
 - Turbine local panel (U2): 1 person.  
-        If no local panel operator is present the turbine operator is expected to walkdown the turbien every 10 minutes max interval.  
+        If no local panel operator is present the turbine operator is expected to walkdown the turbine every 10 minutes max interval.  
 - Electrical panel:   
         To be monitored by Turbine operator and shift supervisor.
 - CST Deaerator and condenser: 1 person.
