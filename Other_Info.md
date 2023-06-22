@@ -14,8 +14,8 @@
 ## Operational limitations
 
 - APRM:  
-        Norm: 100%  
-        SA+ : 120%
+ Norm: 100%  
+SA+ : 120%
 - Period:  
 A- : 30s  
 SA- : 20s  
