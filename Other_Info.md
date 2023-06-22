@@ -17,30 +17,30 @@
         Norm: 100%  
         SA+ : 120%
 - Period:  
-        A- : 30s  
-        SA- : 20s  
+A- : 30s  
+SA- : 20s  
 
 - RPV Temperature:  
-        Norm: 287 °C  
-        A+ : 295 °C  
-        SA+ : 330 °C  
+Norm: 287 °C  
+A+ : 295 °C  
+SA+ : 330 °C  
 
 - Main steam pressure:  
-        Norm: 7100 kPa  
-        A+ : 8000 kPa  
-        SA+ : 9500 kPa  
+Norm: 7100 kPa  
+A+ : 8000 kPa  
+SA+ : 9500 kPa  
 
 - Turbine RPM:  
-        Norm: 3600 RPM  
-        A+ : 3700 RPM  
-        SA+ : 4000 RPM  
+Norm: 3600 RPM  
+A+ : 3700 RPM  
+SA+ : 4000 RPM  
 
 - Generator Load:  
-        SA- : -20 MWe  
-        A- : -1 MWe  
-        Norm: 1200 MWe  
-        A+ : 1500 MWe  
-        SA+ : 1600 MWe  
+SA- : -20 MWe  
+A- : -1 MWe  
+Norm: 1200 MWe  
+A+ : 1500 MWe  
+SA+ : 1600 MWe  
 ## Earning Points
 
 To earn points: Check the network demand on the right monitor on supervisor desk.  
@@ -53,17 +53,18 @@ Going down for maintenance when asked will give you 500 points, while successful
 
 ## Ranks.
 
-| **Visitor**       | **0**     |
-|-------------------|-----------|
-| Trainee           | 1000      |
-| Worker            | 2000      |
-| Junior Operator   | 5000      |
-| Operator          | 10 000    |
-| Senior Operator   | 20 000    |
-| Junior Supervisor | 50 000    |
-| Supervisor        | 100 000   |
-| Senior Supervisor | 200 000   |
-| Junior Inspector  | 500 000   |
-| Inspector         | 1 000 000 |
-| Senior Inspector  | 2 000 000 |
-| Chief Inspector   | 5 000 000 |
+| **Visitor**       | **0**     |  
+|-------------------|-----------|  
+| Trainee           | 1000      |  
+| Worker            | 2000      |  
+| Junior Operator   | 5000      |  
+| Operator          | 10 000    |  
+| Senior Operator   | 20 000    |  
+| Junior Supervisor | 50 000    |  
+| Supervisor        | 100 000   |  
+| Senior Supervisor | 200 000   |  
+| Junior Inspector  | 500 000   |  
+| Inspector         | 1 000 000 |  
+| Senior Inspector  | 2 000 000 |  
+| Chief Inspector   | 5 000 000 |  
+
