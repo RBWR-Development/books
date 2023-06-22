@@ -44,6 +44,7 @@ In recirculation mode the auto control utilizes its authority over pump speed of
 
 ### Operational modes
 In Unit-2 the auto control has 3 modes:  
+
 - Circulation mode  
 in Circ mode the auto control utilizes its authority over pump speed of the 2 reactor recirculation pumps to increase or decrease the recirculation flow thus changing reactor power.   
 
@@ -58,7 +59,7 @@ In Group mode the system acts like rod mode but only the selected groups can be 
 
 The computer will try to smoothly reach the desired level and then hold it. 
  
-Oscilations might occur due to processes affecting reactor power like negative temperature cöefficient or xenon levels.
+Oscilations might occur due to processes affecting reactor power like negative temperature coeficient or xenon levels.
 
 Changes in circulation flow is not effective at low temperatures and reactor powers.
 it can quickly reach its limit. This will be signaled with a sound notification. In that case you have change mode to absorber movement mode.  
