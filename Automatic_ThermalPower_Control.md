@@ -67,10 +67,7 @@ You can also control the other system manually.
 For example, if you see that due to xenon burnoff the computer is reducing circulation flow close to 0% it would be wise to insert control rods manually to give circulation system more margin.
 
 ## Operation
-
-### Unit-1
-
-In Unit-1 the automatic thermal power control system operation occurs in 2 phases.  
+the automatic thermal power control system operation occurs in 2 phases.  
 The Absorber regime and the circulation regime.  
 
 - Absorber regime.  
