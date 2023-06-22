@@ -79,7 +79,7 @@ The Absorber regime and the circulation regime.
 
 - Recirculation regime.  
     If done correctly the reactor should be at an APR of +- 40%. At this point it is recommended to further raise power using the recirculation pumps.  
-    However suring system tests the recirculation control setting on the automatic regulator has proven to be unstable. This is why it is reccomended to use the power to flow operating map.  
+    However during system tests the recirculation control setting on the automatic regulator has proven to be unstable. This is why it is reccomended to use the power to flow operating map.  
     To do this you set the APR setpoint to the desired level and then rev up the circulation pumps to the percentage determined by the power to flow operations map found on the back wall of the control room.  
     Ramping down can be done in the same manner.  
     **WARNING:** Take caution when ramping up power as a too high power rate can destabilize the plant!
