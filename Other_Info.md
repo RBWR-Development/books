@@ -22,7 +22,7 @@
 
 - RPV Temperature:  
         Norm: 287 °C  
-        A+ : 295 °C
+        A+ : 295 °C  
         SA+ : 330 °C  
 
 - Main steam pressure:  
