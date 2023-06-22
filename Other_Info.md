@@ -52,19 +52,4 @@ Every piece of equipment repaired will give you 100 points (if you don't mark so
 Going down for maintenance when asked will give you 500 points, while successfully shutting down the reactor in case of offsite power loss will give you 650 points.
 
 ## Ranks.
-
-| **Visitor**       | **0**     |  
-|-------------------|-----------|  
-| Trainee           | 1000      |  
-| Worker            | 2000      |  
-| Junior Operator   | 5000      |  
-| Operator          | 10 000    |  
-| Senior Operator   | 20 000    |  
-| Junior Supervisor | 50 000    |  
-| Supervisor        | 100 000   |  
-| Senior Supervisor | 200 000   |  
-| Junior Inspector  | 500 000   |  
-| Inspector         | 1 000 000 |  
-| Senior Inspector  | 2 000 000 |  
-| Chief Inspector   | 5 000 000 |  
-
+![O.O](https://media.discordapp.net/attachments/1104020340591579287/1121361076890648636/image.png "°.°")
