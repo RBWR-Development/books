@@ -31,7 +31,7 @@ The pre-designated setpoints are the most commonly required power setpoints requ
 
 
 ### Operational modes
-on the Unit-1 Automatic thermal power regulator there are 2 modes of operation:
+On the Unit-1 Automatic thermal power regulator there are 2 modes of operation:
 
 - Absorber movement mode (LEFT BUTTON)  
     In this mode the automatic controller utilizes its authority over rodmovement. Inserting control rods to lengthen period and pulling control rods to shorten period.
@@ -67,7 +67,7 @@ You can also control the other system manually.
 For example, if you see that due to xenon burnoff the computer is reducing circulation flow close to 0% it would be wise to insert control rods manually to give circulation system more margin.
 
 ## Operation
-the automatic thermal power control system operation occurs in 2 phases.  
+The automatic thermal power control system operation occurs in 2 phases.  
 The Absorber regime and the circulation regime.  
 
 - Absorber regime.  
