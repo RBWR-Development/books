@@ -51,5 +51,3 @@ When using automatic control, you will earn only one point every two to three se
 Every piece of equipment repaired will give you 100 points (if you don't mark something wrongly).  
 Going down for maintenance when asked will give you 500 points, while successfully shutting down the reactor in case of offsite power loss will give you 650 points.
 
-## Ranks.
-![O.O](https://media.discordapp.net/attachments/1104020340591579287/1121361076890648636/image.png "°.°")
