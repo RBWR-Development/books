@@ -11,11 +11,11 @@ Generator cooling should be provided with outside cool air mixed with exaust air
 
 Before operations make sure that oil valves are open. Startup procedure will require cooperation between both control rooms. Initial oil should be heated and distributed with turning gear, then Control Room needs to provide enough steam temperature for casing heating. With steam available and turbine rotating also, steam sealing must be setup properly. Once all lights, a green Control Room should be notified with turbine ready for run-up. If it can't be started with all green lights, the turbine operator should check the trip bolt at the generator (end of the turbine) and press it if needed.
 
-# Lube oil filters
+## Lube oil filters
 
 Lube oil filters can be found in the turbine hall. There are two holders for the filters, one which is used and the other one where filter can be changed. They can be selected with a lever. This device also shows differential pressure. Typical values should be at 0.3-0.4 bar. If higher, a filter might be clogged and require change.
 
-# Generator cooling
+## Generator cooling
 
 Once synced generator has to be provided with cooling air. Air valves are located below the generator (access with ladder from turbine hall). Cold valve will just cool the generator, while warm valve will mix hot air from the generator with cold outside air to reduce humidity. Effeciency of cooling depends on outside temperature, amount of valves open and generator load. In humid conditions warm valve should be at least at 2/5 of cold walve. On higher loads (above 1000 MW) it might be not possible to work in humid conditions constantly, as cooling with the warm air required to raise humidity might not be enough. In that case if the humid conditions persist it is advised to lower generator load below the demand to let the generator cool. If no humid conditions are present, warm air valve should be closed to allow for maximum cooling.
 
