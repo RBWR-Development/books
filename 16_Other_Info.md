@@ -46,10 +46,10 @@ SA+ : 1600 MWe
 To earn points: Check the network demand on a monitor on supervisor desk.  
 You will have to generate +/-50 MW of power in relation to the demand (after subtracting site power use).  
 If you do so, you will earn 1 point of every second.  
-When using automatic control, you will earn only one point every two, three, four etc. seconds, depending on how many automatic systems are enabled. During offsite event and islanding points are earned same as in demand.
+When using automatic control, you will earn only one point every two, three, four etc. seconds, depending on how many automatic systems are enabled. *In Unit #2 some other penalties may apply like wrongly setup deaerator or water levels outside of limits*. During offsite event and islanding points are earned same as in demand.
 
 Every piece of equipment repaired will give you 100 points (if you don't mark something wrongly).  
-Going down for maintenance when asked will give you 500 points, while successfully shutting down the reactor in case of offsite power loss will give you 650 points, while Chernobyl like test will give 500.
+Going down for maintenance when asked will give you 500 points, while successfully shutting down the reactor in case of offsite power loss will give you 650 points (minus what you have earned during islanding), while Chernobyl like test will give 500.
 
 *Realistic startup in Unit #2 will give 300 points and 900 points if done without use of automatic control. Manual operations of Turbine in U2 will give additional 1 point per 3 seconds.*
 
