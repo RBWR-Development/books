@@ -16,7 +16,15 @@ Source Range Monitor (SRM) is used at very low powers during initial reactor sta
 
 # Intermediate Power Range
 
-IPRM (Intermediate Power Range Monitor) consists of a 0-100% gauge and a 6 level selector (*8 levels in Unit #2*). Selector initially should be at level 1 while IPRM is observed. With growing power IPRM will raise and when around 75% (3/4 of the scale) IPRM level should be incremented to level 2. At this moment IPRM will drop to around 30% and will start to raise again. This procedure should be repeated until maximum level is reached. While IPRM doesn't give a direct measurement of reactor power it can be estimated by at which IPR level we are at the moment. Low levels indicate low power, while level 6 (*level 10 for Unit #2*) indicates
+IPRM (Intermediate Power Range Monitor) consists of a 0-100% gauge and a 6 level selector (*8 levels in Unit #2*). Selector initially should be at level 1 while IPRM is observed. With growing power IPRM will raise and when around 75% (3/4 of the scale) IPRM level should be incremented to level 2. At this moment IPRM will drop to around 30% and will start to raise again. This procedure should be repeated until maximum level is reached. While IPRM doesn't give a direct measurement of reactor power it can be estimated by at which IPR level we are at the moment. Low levels indicate low power, while level 6 (*level 8 for Unit #2*) indicates heat gaining powers (around 1% of total reactor power)
+
+# Average Power Range
+
+APRM (Average Power Range Monitor) gives the most reliable power of the reactor in percent of maximum operating power. It is used in whole range between 1%-100%. APRM is an average of several LPRMs (Local Power Range Monitors) which measure power output at different locations in the core. Power should never excede 100% of APRM and reactor will SCRAM at 125% of APRM.
+
+# Core monitor
+
+Core monitor shows % of rods pulled and % of maximum power for each group of rods individually. Vertical slices of the core can also be selected to see powers for each cell in the core on different depths (*In Unit #2 fuel temperatures instead of powers are shown*). Rods should be pulled individually in such a manner that total power between all groups are more or less balanced. Automatic Balancer can also be used for that. Usually the inside rods heat up quicker than outside rods although it's not always the case as this may depend on fuel quantity in each rods and xenon amount. Recirculation imbalance can also affect imbalace in parts of the core.
 
 # Unit 2 realistic mode
 
@@ -36,3 +44,5 @@ IPRM (Intermediate Power Range Monitor) consists of a 0-100% gauge and a 6 level
 *This procedure is introduced in BWR reactors because they tend to be unstable at low powers, where no negative coefficient plays a role yet. It is also used to balance out reactivity in the entire core. The pattern is coded into a system, and the flashing rod should be selected, then pulled to around 20%. Beyond that value, the rod block will prevent any further pulling. Meanwhile, another rod will begin flashing, indicating the sequence. This procedure should be repeated until 5% power is reached.*
 
 *IPR has 8 levels, and they must be incremented when the indication nears the 90% red line. However, it cannot be switched to a high level immediately, as it would also scram the reactor when the indication is below the red 10% line. When reaching the 8th level, the reactor must be switched to Run mode to prevent a scram from IPR. Additionally, remember to change IPR to level one after a scram to enable a restart.*
+
+*Realistic startup will give 300 points and 900 points if done fully in manual (including Turbine Control Room)*.
