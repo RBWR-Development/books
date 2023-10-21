@@ -1,6 +1,6 @@
-# *Turbine Control Room
+# Turbine Control Room
 
-This part of the manual applies solely to Unit #2.
+*This part of the manual applies solely to Unit #2.
 
 An additional Control Room was added specifically for the turbine operations of Unit #2. Please refer to checklists in both the Control Room and the Turbine Control Room for startup procedures. This guide only summarizes the features. There is also interactive turbine startup guide available (right part of the screen under gear icon).
 
