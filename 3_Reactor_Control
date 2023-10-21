@@ -1,0 +1,2 @@
+
+Reactor is controlled primarly by the means of movement of control rods. Rods are pulled out of the core and pushed back inside with Rods Control lever (*in Unit #2 Rods Movement switch*) in either Group Control or All Control. In Group Control only selected rods will move, while in All Control all rods will be move equally. Movement speed can be chosen between S - Slow, M - Medium, F - Fast. In Group Control rods can be moved much quicker and the speed depends also on how many of them are selected.
