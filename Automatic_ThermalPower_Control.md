@@ -40,7 +40,7 @@ On the Unit-1 Automatic thermal power regulator there are 2 modes of operation:
     In recirculation mode the auto control utilizes its authority over pump speed of the 2 reactor recirculation pumps to increase or decrease the recirculation flow thus changing reactor power.
 
 
-## In Unit-2
+## *In Unit-2
 
 ### Operational modes
 In Unit-2 the auto control has 3 modes:  
@@ -52,7 +52,7 @@ In Unit-2 the auto control has 3 modes:
     In rods mode the auto control utilizes its authority over rodmovement to lengthen or shorten period by inserting or pulling rods respectively.  
 
 - Group mode  
-    In Group mode the system acts like rod mode but only the selected groups can be moved.
+    In Group mode the system acts like rod mode but only the selected groups can be moved.*
 
 
 ## Behaviour
