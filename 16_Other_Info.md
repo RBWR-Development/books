@@ -43,7 +43,7 @@ A+ : 1500 MWe
 SA+ : 1600 MWe  
 ## Earning Points
 
-To earn points: Check the network demand on the right monitor on supervisor desk.  
+To earn points: Check the network demand on a monitor on supervisor desk.  
 You will have to generate +/-50 MW of power in relation to the demand (after subtracting site power use).  
 If you do so, you will earn 1 point of every second.  
 When using automatic control, you will earn only one point every two, three, four etc. seconds, depending on how many automatic systems are enabled. During offsite event and islanding points are earned same as in demand.
