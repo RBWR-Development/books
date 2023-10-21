@@ -1,5 +1,20 @@
 # Misc information
 
+## Reactor types
+
+Config board allows to pick a reactor type:
+
+      Changing the reactor type only modifies the physics of the reactor, not the visuals of 
+      the control room.
+
+1) Stable - This reactor has no natural circulation in the core, therefore at higher powers steam voids will kill the reactivity raise.  This reactor is very easy to control, just stop moving rods, and it will basically stay where it is. You will heavily rely on forced circulation flow to reach higher thermal powers.
+ 
+2) Classic - This is the most realistic, classical BWR model. The reactor will have some natural circulation in the core, but still will be pretty stable on high powers due to steam voids production. As in real life, you should use both rods and forced circulation flow, but pulling rods only will give you full power too. (recommended for beginner users)
+
+3) Self Circulating - This reactor is designed to have maximum of natural self circulation in the core. Therefore, negative void coefficient is non existant. This design is marginally stable and negative temperature coefficient of the core will stabilize it, but this effect is weak and other factors like xenon poisoning may make it temporarily unstable. Forced circulation flow is not required to operate this reactor model, but it can be used to make more precise power adjustments. PWR reactor would behave in similar way. (recommended for experienced users)
+
+4) RBMK - While this reactor type in theory is a BWR its design is completely different. As it is based on graphite moderation, water is no longer acting like a moderator but more as neutron dampener. Therefore, with lower water density and creation of voids, the reactivity will raise. This reactor is unstable by design and can be difficult to control manually. Also, the forced circulation will have the reverse effect of slowing down the reactivity by removing steam voids.
+
 ## Suggested Operator positions
 
 - Reactor and recirculation: 1 person
