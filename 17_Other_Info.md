@@ -2,10 +2,7 @@
 
 ## Reactor types
 
-Config board allows to pick a reactor type:
-
-      Changing the reactor type only modifies the physics of the reactor, not the visuals of 
-      the control room.
+Config board allows to pick a reactor type. Changing the reactor type only modifies the physics of the reactor, not the visuals of the control room.
 
 1) Stable - This reactor has no natural circulation in the core, therefore at higher powers steam voids will kill the reactivity raise.  This reactor is very easy to control, just stop moving rods, and it will basically stay where it is. You will heavily rely on forced circulation flow to reach higher thermal powers.
  
