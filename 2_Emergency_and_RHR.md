@@ -9,4 +9,4 @@ LPCI (Low Pressure Coolant Injection) is a part of the RHR system (see later) wh
 
 RHR (Residual Heat Removal) consists of two pumps (Shutdwon Cooling Pumps) and is used to cool down the reactor during shutdown scenarios. During the cooling phase both pumps should be used, while at shutdown only one should be sufficient although this might depend on the amount of resudial heat (residual heat is strongest shortly after shutdown and weakens over time).
 
-*In Unit #2 both systems work the same way but are located on the Supervisor Desk (Emergency systems on the left, RHR on the right)*
+*In Unit #2 both systems work the same way but are located on the Supervisor Desk (Emergency systems on the left, RHR on the right), they will also use water from Consensate Storage Tanks so be sure to have them filled during operations.*
