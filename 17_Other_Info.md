@@ -8,7 +8,7 @@ Config board allows to pick a reactor type. Changing the reactor type only modif
  
 2) Classic - This is the most realistic, classical BWR model. The reactor will have some natural circulation in the core, but still will be pretty stable on high powers due to steam voids production. As in real life, you should use both rods and forced circulation flow, but pulling rods only will give you full power too. (recommended for beginner users)
 
-3) Self Circulating - This reactor is designed to have maximum of natural self circulation in the core. Therefore, negative void coefficient is non existant. This design is marginally stable and negative temperature coefficient of the core will stabilize it, but this effect is weak and other factors like xenon poisoning may make it temporarily unstable. Forced circulation flow is not required to operate this reactor model, but it can be used to make more precise power adjustments. PWR reactor would behave in similar way. (recommended for experienced users)
+3) Self Circulating - This reactor is designed to have maximum of natural self circulation in the core. Therefore, negative void coefficient is non existent. This design is marginally stable and negative temperature coefficient of the core will stabilize it, but this effect is weak and other factors like xenon poisoning may make it temporarily unstable. Forced circulation flow is not required to operate this reactor model, but it can be used to make more precise power adjustments. PWR reactor would behave in similar way. (recommended for experienced users)
 
 4) RBMK - While this reactor type in theory is a BWR its design is completely different. As it is based on graphite moderation, water is no longer acting like a moderator but more as neutron dampener. Therefore, with lower water density and creation of voids, the reactivity will raise. This reactor is unstable by design and can be difficult to control manually. Also, the forced circulation will have the reverse effect of slowing down the reactivity by removing steam voids.
 
@@ -17,7 +17,7 @@ Config board allows to pick a reactor type. Changing the reactor type only modif
 - Reactor and recirculation: 1 person
 - Turbine main panel: 1 person
 - Turbine local panel (U2): 1 person.  
-        If no local panel operator is present the turbine operator is expected to walkdown the turbine every 10 minutes max interval.  
+        If no local panel operator is present the turbine operator is expected to walk down the turbine every 10 minutes max interval.  
 - Electrical panel:   
         To be monitored by Turbine operator and shift supervisor.
 - CST Deaerator and condenser: 1 person.
