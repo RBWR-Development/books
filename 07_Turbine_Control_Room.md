@@ -11,7 +11,7 @@
 *Oil heating and cooling are achieved through a heat exchanger supplied by either cool or hot water. The temperature should be maintained at all times around 44.8°C. Warm oil should also be distributed to the turbine before startup using the turning gear switch.*
 
 *Turbine casing heating should be performed while the turbine is on the turning gear before it is started. This process requires hot steam from the reactor. In real life, this process takes 8 hours but has been significantly shortened. The turning gear can be engaged while the turbine is stationary and then turned on to rotate the turbine. To disengage it, the turbine must come to a complete stop.
-Generator cooling should be provided with outside cool air mixed with exaust air if needed (refer to humid air operations checklist)*
+Generator cooling should be provided with outside cool air mixed with exhaust air if needed (refer to humid air operations checklist)*
 
 *Before starting operations, ensure that the oil valves are open. The startup procedure will require cooperation between both control rooms. Initial oil should be heated and distributed with the turning gear, then the Control Room needs to provide enough steam temperature for casing heating. With steam available and the turbine rotating, steam sealing must be set up properly. Once all lights are green, notify the Control Room that the turbine is ready for run-up. If the turbine can't be started with all green lights, the turbine operator should check the trip bolt at the generator (end of the turbine) and press it if needed.*
 

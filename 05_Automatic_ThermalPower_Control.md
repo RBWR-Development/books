@@ -15,7 +15,7 @@ In unit-1 the automatic thermal power regulator can be found between the manual 
 The pre-designated setpoints are the most commonly required power setpoints required by the operators. These setpoints are:
 
 - 1% APR  
-    Used when initially starting the plant 1% APR is the point reffered to as POAH (the point of adding heat), this is the point where there is enough self sustained nuclear fission in the core to generate a noticable ammount of heat leading to a controlled system warmup.
+    Used when initially starting the plant 1% APR is the point reffered to as POAH (the point of adding heat), this is the point where there is enough self-sustained nuclear fission in the core to generate a noticeable amount of heat leading to a controlled system warmup.
 
 - 5% APR  
     At 5% APR sufficient thermal power is generated to commence the turbine startup.
@@ -34,7 +34,7 @@ The pre-designated setpoints are the most commonly required power setpoints requ
 On the Unit-1 Automatic thermal power regulator there are 2 modes of operation:
 
 - Absorber movement mode (LEFT BUTTON)  
-    In this mode the automatic controller utilizes its authority over rodmovement. Inserting control rods to lengthen period and pulling control rods to shorten period.
+    In this mode the automatic controller utilizes its authority over rod movement. Inserting control rods to lengthen period and pulling control rods to shorten period.
 
 - Recirculation mode  
     In recirculation mode the auto control utilizes its authority over pump speed of the 2 reactor recirculation pumps to increase or decrease the recirculation flow thus changing reactor power.
@@ -49,7 +49,7 @@ On the Unit-1 Automatic thermal power regulator there are 2 modes of operation:
     in Circ mode the auto control utilizes its authority over pump speed of the 2 reactor recirculation pumps to increase or decrease the recirculation flow thus changing reactor power.*   
 
 - *Rods mode  
-    In rods mode the auto control utilizes its authority over rodmovement to lengthen or shorten period by inserting or pulling rods respectively.*
+    In rods mode the auto control utilizes its authority over rod movement to lengthen or shorten period by inserting or pulling rods respectively.*
 
 - *Group mode  
     In Group mode the system acts like rod mode but only the selected groups can be moved.*
@@ -59,10 +59,10 @@ On the Unit-1 Automatic thermal power regulator there are 2 modes of operation:
 
 The computer will try to smoothly reach the desired level and then hold it. 
  
-Oscillations might occur due to processes affecting reactor power like negative temperature coeficient or xenon levels.
+Oscillations might occur due to processes affecting reactor power like negative temperature coefficient or xenon levels.
 
 Changes in circulation flow is not effective at low temperatures and reactor powers.
-The circulation flow can quickly reach its limit. This will be signaled with a sound notification. In that case you have to change mode to absorber movement mode.  
+The circulation flow can quickly reach its limit. This will be signalled with a sound notification. In that case you have to change mode to absorber movement mode.  
 You can also control the other system manually.   
 For example, if you see that due to xenon burnoff the computer is reducing circulation flow close to 0% it would be wise to insert control rods manually to give circulation system more margin.
 
@@ -76,7 +76,7 @@ The Absorber regime and the circulation regime.
 
 - Recirculation regime.  
     If done correctly the reactor should be at an APR of +- 40%. At this point it is recommended to further raise power using the recirculation pumps.  
-    However during system tests the recirculation control setting on the automatic regulator has proven to be unstable. This is why it is recommended to use the power to flow operating map.  
+    However, during system tests the recirculation control setting on the automatic regulator has proven to be unstable. This is why it is recommended to use the power to flow operating map.  
     To do this you set the APR setpoint to the desired level and then rev up the circulation pumps to the percentage determined by the power to flow operations map found on the back wall of the control room.  
     Ramping down can be done in the same manner.  
     **WARNING:** Take caution when ramping up power as a too high power rate can destabilize the plant!
