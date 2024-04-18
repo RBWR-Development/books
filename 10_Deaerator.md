@@ -6,7 +6,7 @@ The deaerator has two primary controls for the steam section (the water section 
 
 The deaerator water temperature will primarily depend on the amount of steam injected but will also be influenced by the reactor temperature, as it is initially preheated. The deaerator pressure will be determined by the amount of steam, the outflow valve, and the water level.
 
-Deaerator in U2 has also a breakable rupture disk. In case the pressure grows too high (this might be cause by overfilling deaerator too quickly) a rupture disk will break requiring manual replacement. In order to replace the disk:
+Deaerator in U2 has also a breakable rupture disk. In case the pressure grows too high (this might be caused by overfilling deaerator too quickly) a rupture disk will break requiring manual replacement. In order to replace the disk:
 - put deaerator inlet at 0 with switch at neutral
 - tag the inlet switch
 - go to the deaerator in turbine hall
