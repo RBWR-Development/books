@@ -18,6 +18,6 @@ This screen is available for supervisor rank or higher and allows to divide whol
 
 Unit interlock is available for senior supervisor rank or higher. It allows to power A bus of one unit from A bus of another one. In order to connect the units donor should be powering its A bus from the turbine (startup transformer will not provide enough power for both units) and receiving unit needs to have bus A unpowered. Only then both breakers can be closed. Interlocking can have several uses mostly when offsite power is disconnected:
 - Unit Safety bus can be powered quicker (from A bus) without the need to wait for diesel genertor in case LPCI is needed
-- Unit can be restarted to islanding mode in case offsite power caused turbine trip or SCRAM
+- Unit can be restarted to islanding mode in case offsite power disconnection caused turbine trip or SCRAM
 
 Although the supervisor role is not strictly defined the main idea behind this rank is to monitor, coordinate and give advise to operators of both units. Supervisor shouldn't be stuck to the room, they should actively patrol the area, check for any problems in both units and the turbine hall.
