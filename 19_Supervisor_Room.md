@@ -10,7 +10,7 @@ Supervisor room allows for general monitoring of the operations in both units an
 
   ## Demand manager
 
-This screen is available for supervisor rank or higher and allows to divide whole site demand between both units. New demand is available 300 seconds before it comes and changes can be made until 60 seconds left. Supervisor should take into account several factors when chosing demans:
+This screen is available for supervisor rank or higher and allows to divide whole site demand between both units. New demand is available 300 seconds before it comes and changes can be made until 60 seconds are left. Supervisor should take into account several factors when chosing demans:
 - Does any unit needs repairs? If so a lower demand could help a lot, also maintenance event can be called
 - Are there humid conditions or high outside temperature? In that case U2 should have reduced demand
 
