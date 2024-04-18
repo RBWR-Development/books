@@ -63,5 +63,5 @@ When using automatic control, you will earn only one point every two, three, fou
 Every piece of equipment repaired will give you 100 points (if you don't mark something wrongly).  
 Going down for maintenance when asked will give you 500 points, while successfully shutting down the reactor in case of offsite power loss will give you 650 points (minus what you have earned during islanding), while Chernobyl like test will give 500.
 
-*Realistic startup in Unit #2 will give 300 points and 900 points if done without use of automatic control. Manual operations of Turbine in U2 will give additional 1 point per 3 seconds.*
+*Realistic startup in Unit #2 will give 300 points and 900 points if done without use of automatic control. Manual operations of Turbine in U2 will give additional 1 point per 3 seconds. Meeting demand of the whole site will additionaly gain one extra point for each unit every 5 seconds.*
 
