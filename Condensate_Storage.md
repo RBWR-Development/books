@@ -1,3 +1,5 @@
+# Condensate Storage
+
 Condensate storage tanks are available for both units, although Unit #2 uses them to a greater extent. They can be filled from an external source with simple pumps, but be careful not to switch off the startup transformer because it consumes a significant amount of power.
 
 Emergency systems like RCIC and LPCI will use water from the condensate storage tanks (only in Unit #2), so be careful not to run them dry; make sure to keep at least 50% of their water capacity. On the other hand, don't overfill them, as you won't be able to remove excess water from the system. Both emergency systems come with a tank selector (Unit #2), so you can use either or both of them.

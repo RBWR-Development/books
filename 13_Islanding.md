@@ -1,3 +1,5 @@
+# Islanding
+
 Both units are capable of islanding mode, which means that the reactor can self-sustain its own power production when cut off from the offsite power. In islanding mode, both main buses (and their pumps) are powered directly from the turbine generator, while it is not synchronized with the outside network. Turbine speed can vary between 3400-3800 RPM, which provides a stable enough current for the buses. Site load induces a certain drag on the turbine depending on the load.
 
 In order to enter islanding mode, generator load has to be reduced to below 100 MW and ideally matched equally with site power needs (so that power sent to the network equals zero). Now, the turbine can be desynchronized. If the load matches site power usage, the turbine will more or less stay around 3600 RPM and requires just a little supervision with the turbine precision valve. If desynchronization is done at higher loads, the turbine would spin up, requiring an immediate reduction in the turbine valve to maintain the required RPM. Similarly, if desynchronization is done at lower loads, the turbine would spin down, requiring additional steam to be provided.

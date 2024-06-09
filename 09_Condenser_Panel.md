@@ -1,3 +1,5 @@
+# Condenser Panel
+
 The Condenser Circulation Panel is used to control the condenser unit. The main purpose of this panel is to maintain the proper vacuum level (between 40-70 millibars) that will draw steam out of the turbine and allow it to condense by exchanging heat with the circulation flow.
 
 This panel consists of several elements:

@@ -1,3 +1,4 @@
+# Auto Cooling
 While the game is designed to be operated by at least 2-3 players, sometimes you may want to play alone. In that case it might be difficult to control the Cooling Panel, as it requires constant supervision. However, you can automate this process and focus on more important tasks, like reactor and turbine control.
 
 In order to enable automated cooling management, you will need to activate all the pumps on the Cooling Panel. Additionally, ensure that all switches are in the neutral position. This should result in seven green lights on the automatic control panel. Your next step will be to set the proper setpoints. The suggested levels are 0 for Hotwell and 2 for Deaerator and Reactor. Begin by generating some steam flow, and then you can press START on the panel to initiate the automation process.

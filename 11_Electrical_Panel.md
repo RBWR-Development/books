@@ -1,3 +1,5 @@
+# Electrical Panel
+
 The electrical panel connects all the important devices in the plant. The system consists of several buses that can be connected to each other via transformers. Generally, electricity flows from top to bottom.
 
 The top line represents the offsite power source. Initially, it will be connected to Main Bus A via the startup transformer and the switch on the right. This bus supplies power to all the important pumps needed for startup. Only one pump out of every two is available, as the others are connected to Bus B (although both reactor circulation pumps are available from Bus A). Please be cautious not to overload the transformer during startup or a turbine trip, as it has limited power capacity. Once synchronized with the network, Buses A and B can be connected directly to the turbine generator using switches on the bottom of the vertical panel (*in U2 switches on the left*), allowing for maximum plant power output.

@@ -1,3 +1,5 @@
+# Radioactivity
+
 Radioactivity is simulated in the game, and you can become contaminated as a player. At this moment, there is no penalty for that, but this will be reworked in the future. There are several devices available to measure radioactivity.
 
 * Personal Geiger counter: It will provide an instant value of radioactivity in the vicinity, measured in microsieverts per hour. This device can also be used on other players to check if they are not contaminated.

@@ -1,3 +1,5 @@
+# Xenon Poisoning
+
 Iodine-135 and Xenon-135 are important elements in managing reactor power.
 
 Iodine-135 is a direct product of nuclear fission. It will be produced in proportion to reactor thermal power. The indicator is scaled so that the % of Iodine-135 concentration strictly corresponds to the % of reactor thermal power. Therefore, if the power is above the concentration, it will rise, and if it is below, it will drop as Iodine-135 decays into Xenon-135. The latter element is very important because it is a strong neutron absorber. Therefore, high levels of Xenon-135 will poison the reactor, making it much harder to reach critical levels. The higher the Iodine-135 level, quicker the Xenon-135 level will rise. Therefore, when shutting down the reactor from full power, with a lot of Iodine-135 produced in the core, the Xenon-135 level can rise very quickly, making it difficult to restart the reactor (especially with low fuel levels).

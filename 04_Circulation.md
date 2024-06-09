@@ -1,3 +1,5 @@
+# Circulation
+
 The Reactor Circulation panel is a secondary reactor control panel. In BWR reactor, raising circulation flow through the core will reduce the amount of steam voids and therefore increase reactivity. As a result, this panel can be used to raise the power independently of the control rods. 
 
 There are two circulation pumps each with pump, inlet valve and outlet valve switch. Pump should be started in following order: inlet -> pump -> outlet and stopped in following order: outlet -> pump -> inlet. Each pump also has a valve setting to order the flow. There is also a panel showing status for all jet pumps in the reactor. They are used both by circulation flow and by offline cooling system. Initially pumps should be setup at around 25% of flow (optimally 28% but not higher than 30% which would cause cavitation).

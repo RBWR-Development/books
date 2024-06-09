@@ -1,4 +1,4 @@
-# AUTOMATIC CONTROL
+# Automatic Control
 
 ## Purpose
 Reactor automatic thermal power control is used to automate the process of reaching desired power and holding the setpoint.

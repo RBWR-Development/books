@@ -1,3 +1,5 @@
+# Deaerator
+
 A deaerator is a device with two primary functions. Its main function is to remove all non-condensable gases from the condensate, primarily oxygen. The other function is to initially heat the feedwater (along with preheaters) to minimize energy wastage in the reactor for heating, directing most of it into evaporation.
 
 In order to remove gases, water must be heated to its boiling point since the possibility of gas dissolution is minimal at that temperature. Therefore, the deaerator water should be heated to approximately 108 degrees Celsius, which is slightly above the atmospheric pressure boiling point within the deaerator. The pressure should be maintained between 1.1 and 1.6 bars.

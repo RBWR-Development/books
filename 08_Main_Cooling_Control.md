@@ -1,3 +1,5 @@
+# Main Cooling Control
+
 The Reactor Cooling panel might be the most demanding of all the panels, and it requires the constant attention of the operator. This panel essentially supervises the flow in the main cooling circuit. The system consists of three main elements:
 
 - Hotwell - this is where condensed steam gathers after passing through the turbine

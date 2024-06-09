@@ -1,3 +1,5 @@
+# Auxillary Systems
+
 Heat removal system:
 This system consists of two pumps that are used to remove decay heat during reactor shutdown. They pump water into the circulation circuit while bypassing the circulation pumps, so the latter are not required. This system should only be used during reactor shutdown and should be disabled during the run-up. It cannot sustain higher reactor powers. On the panel, there is also an emergency Low Pressure Power Injection pump as a part of the system. It should be utilized when the reactor water level drops below the minimum. This pump operates effectively below 3000 kPa as it cannot inject water against higher pressure. These systems are powered by the Safety Bus, and in case of offsite power loss, they require diesel generators to provide power.
 

@@ -1,3 +1,5 @@
+# Startup Procedure
+
 1) Turn off Offline Cooling Pumps. Allow residual heat to start building. Turn on one polisher and all preheaters.
 2) Activate the Condenser Auxiliary Relief (CAR) on the condenser panel to initially reduce pressure in the condenser.
 3) Enable both recirculation pumps to 28%.

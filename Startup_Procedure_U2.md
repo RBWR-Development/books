@@ -1,3 +1,5 @@
+# Unit 2 Startup Procedure
+
 The reactor can be operated in three modes: SRM, IPR, and Run. The Run mode can be enabled above 5% reactor power and can be used without any restrictions between 4% to 100% of reactor power (it will SCRAM below 4%). SRM/IPR modes are used for startup only and have several restrictions.
 
 - Only one rod can be pulled at a time, following a predefined pattern.

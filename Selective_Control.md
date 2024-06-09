@@ -1,3 +1,5 @@
+# Selective Control
+
 The reactor is divided into 24 groups of rods, each containing 9 control rods. You can control each group independently. Once you start pulling rods on the main panel, you will notice that different groups heat up at different rates. This is mainly because they contain slightly different amounts of fuel. Also, you should notice some more patterns:
 * core groups will heat quicker - this is due to the fact that they take neutrons from neighboring groups
 * outside groups will heat slower - this is due they loose neutrons to the outside of the reactor (although some are reflected by neutron reflector)

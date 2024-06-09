@@ -1,3 +1,5 @@
+# Introduction
+
 Welcome to the Realistic Boiling Water Reactor simulator.
 
 If you are new to this experience, please go to Unit #1. It is here as a learning environment. You can access the interactive startup guide and also enable descriptions of the handles (check the wheel button on the right side of the screen). Once you are comfortable running the reactor in Unit #1, you can switch to Unit #2, which is essentially the same model but in a better-looking environment. Unit #2 has some special features, like the synchroscope and an advanced startup procedure, but you should be able to figure out the differences yourself.

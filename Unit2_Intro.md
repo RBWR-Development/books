@@ -1,4 +1,4 @@
-Operations of Unit #2
+# Unit 2 Operations
 
 Unit #2 hosts the same type of reactor as Unit #1, so the operations are pretty similar. However, there are several differences. Unit #2 is still under development, while Unit #1 remains mostly a learning environment and a more relaxed experience.
 

@@ -1,3 +1,5 @@
+# Malfunctions and Events
+
 After some time, you may feel pretty confident in maintaining the demanded power production. However, you will have to face another threat, which is possible malfunctions in the systems. The power plant won't warn you about them. You have to detect and deal with them yourself.
 
 For the moment, the following systems may malfunction: Feedwater pumps, Circulation pumps, Condenser pumps, pre-heaters, Condenser Circulation pumps, and both SJAE. A malfunctioning system will operate at lower efficiency, and you may not notice it at first, but once it's faulty, it will only deteriorate. As a hint, you can use the engineer's panel, which will provide you with the average system condition. If it's below 100%, something is faulty, and you need to start looking for the issue.
