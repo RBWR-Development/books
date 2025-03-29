@@ -16,6 +16,6 @@ Tank diodes: red - empty, red flashing - resin is being loaded, yellow - awaitin
 Conductivity lab allows to calibrate condictivity gauges which drift with time. In order to do the calibration:
 - pick an empty beaker
 - fill it with water from a polisher you want to calbrate
-- install the beaker near condictivity meter
+- install the beaker near conductivity meter
 - measure conductivity (wait until it stabilises)
 - adjust conductivity reading for a given polisher to measured value (if polisher is not in use you will need to recirculate water to get a reading)
