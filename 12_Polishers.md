@@ -10,3 +10,12 @@
 
 *Polisher diodes: red - empty, green - operational, green flashing - resin is being refilled, yellow - awaiting air flush, yellow flashing - resin being ejected.
 Tank diodes: red - empty, red flashing - resin is being loaded, yellow - awaiting regeneration, yellow flashing - regenerating, green - ready, green flashing - resin is being refilled into the polisher.*
+
+# Conductivity lab
+
+Conductivity lab allows to calibrate condictivity gauges which drift with time. In order to do the calibration:
+- pick an empty beaker
+- fill it with water from a polisher you want to calbrate
+- install the beaker near condictivity meter
+- measure conductivity (wait until it stabilises)
+- adjust conductivity reading for a given polisher to measured value (if polisher is not in use you will need to recirculate water to get a reading)
